@@ -34,7 +34,3 @@ Second, block mobile pages starting with m.
 The corresponding regular format: `/^https?:\/\/m\. /`
 
 The original address: https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/issues/46
-
-
-
-Translated with www.DeepL.com/Translator (free version)
