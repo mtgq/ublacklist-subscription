@@ -1,18 +1,18 @@
-# Google 中文搜索结果中屏蔽某些网站
+# Google Chinese search results to block certain sites
 
-###### 说明：这是自己使用的一个订阅规则，平常在使用谷歌搜索中文的时候碰到了垃圾网站就随手 black 了，然后把这个地址再更新到文件中。
+###### Description: This is a subscription rule used by myself, usually in the use of Google search in Chinese when you encounter a spam site to black up, and then update this address to the file.
 
-#### uBlacklist 有什么作用
+#### uBlacklist What does it do?
 
-###### uBlacklist 是一个移除预定义规则中的网站出现在你的搜索结果中的一个浏览器扩展，目前支持的搜索引擎有 Google DuckDuckGo 等。使用它可以屏蔽垃圾网站或机器翻译网站出现在你的搜索结果中，从而可以让你更加高效的获取到有用的搜索结果，以及享受更好的搜索体验。
+###### uBlacklist is a browser extension that removes websites from appearing in your search results for predefined rules, currently supported by search engines such as Google DuckDuckGo. Use it to block spam or machine-translated websites from appearing in your search results, so you can get useful search results more efficiently and enjoy a better search experience.
 
-#### 安装
+#### Installation
 
-###### 应用商店下载地址如下: [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+###### App Store download address: [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
-#### 收集的其他人订阅地址
+#### Collection of other people's subscription addresses
 
-(推荐)https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+(Recommended) https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
 https://github.com/liubiantao/uBlacklist-Websites
 
@@ -21,17 +21,20 @@ https://github.com/kurikomoe/KurikoRulesets/blob/master/ublacklist.txt
 https://github.com/gyli/Blocklist/blob/master/BLOCKLIST_uBlacklist
 
 
-#### 自定义规则使用
+#### Custom rule use
 
-一、拦截域名
+I. Interception of domain names
 
-对应的正则格式： `/\S+\.(it|pl|site|de|be|club|vn|mx|fr|buzz)/` 拦截以 it、pl、 site、de、 be，club 等结尾的域名
+Corresponding regular format: `/\S+\. (it|pl|site|de|be|club|vn|mx|fr|buzz)/` intercept domain names ending with it, pl, site, de, be, club, etc.
 
-原文地址：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/issues/45
+The original address: https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/issues/45
 
-二、屏蔽以 m. 开头的手机页面
+Second, block mobile pages starting with m.
 
-对应的正则格式：`/^https?:\/\/m\./`
+The corresponding regular format: `/^https?:\/\/m\. /`
 
-原文地址：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/issues/46
+The original address: https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist/issues/46
 
+
+
+Translated with www.DeepL.com/Translator (free version)
