@@ -1,0 +1,13 @@
+title/腾讯云/
+title/华为云/
+title/阿里云/
+title/游戏/
+title/下载站/
+title/服务器/
+title/新闻/
+title/热点/
+title/YouTube/
+*://*.csdn.net/*
+*://*.youtube.com/*
+/^https?:\/\/m\./
+/^https?:\/\/wap\./
