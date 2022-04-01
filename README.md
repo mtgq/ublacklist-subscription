@@ -10,6 +10,10 @@
 
 ###### App Store download address: [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
+#### Subscription address of this project
+Main: https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/uBlacklist.txt
+Experiments: https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/test.txt
+
 #### Collection of other people's subscription addresses
 
 (Recommended) https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
