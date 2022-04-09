@@ -9,5 +9,6 @@ title/热点/
 title/YouTube/
 *://*.csdn.net/*
 *://*.youtube.com/*
+*://*.taobao.com/*
 /^https?:\/\/m\./
 /^https?:\/\/wap\./
