@@ -1,4 +1,6 @@
 *://*/so.php
+*://www.codebaoku.com/*
+*://www.htsjk.com/*
 *://120.79.19.203/*
 *://www.yaowenming.com/*
 *://www.editcode.net/*
@@ -106,7 +108,6 @@
 *://one.programdoktoru.com/*
 *://myservice.joannawoodartist.com/*
 *://jobready.cn/*
-*://github.com/*
 *://diodiodio.com/*
 *://volvootofinans.com/*
 *://www.helloworld.net/*
