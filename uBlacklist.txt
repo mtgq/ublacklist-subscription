@@ -8,8 +8,6 @@
 *://web.ntnu.edu.tw/*
 *://uvidelkino.ru/*
 *://www.17ext.com/*
-*://m.17lexue.com/*
-*://m.tiikoo.cn/*
 *://events.laravel-dojo.com/*
 *://www.zzvips.com/*
 *://659.qxqyw.com/*
@@ -29,7 +27,6 @@
 *://www.cesafe.com/*
 *://ruanjian.gdfqware.com/*
 *://www.iplaysoft.com/*
-*://m.55bbs.com/*
 *://www.downza.cn/*
 *://soft.onlinedown.net/*
 *://www.qwbm.com/*
