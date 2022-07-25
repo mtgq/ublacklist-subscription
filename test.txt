@@ -5,7 +5,9 @@ title/游戏/
 title/下载站/
 title/服务器/
 title/新闻/
+title/测试/
 title/热点/
+title/排名/
 title/YouTube/
 *://*.youtube.com/*
 /^https?:\/\/m\./
