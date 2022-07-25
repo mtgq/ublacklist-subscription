@@ -1,35 +1,34 @@
-*://*.baidu.*/*
+/^https?\:\/\/.*baidu\./
 
-*://*.jdcloud.*/*
-*://*.jd.*/*
+/^https?\:\/\/.*jdcloud\./
+/^https?\:\/\/.*jd\./
 
-*://*.taobao.*/*
-*://*.aliyun.*/*
-*://*.alibabacloud.*/*
+/^https?\:\/\/.*taobao\./
+/^https?\:\/\/.*aliyun\./
+/^https?\:\/\/.*alibabacloud\./
 
-*://*.zhihu.*/*
+/^https?\:\/\/.*zhihu\./
 
-*://*.csdn.*/*
+/^https?\:\/\/.*csdn\./
 
-*://*.qq.*/*
-*://*.tencent.*/*
+/^https?\:\/\/.*qq\./
+/^https?\:\/\/.*tencent\./
 
-*://*.huawei.*/*
-*://*.huaweicloud.*/*
+/^https?\:\/\/.*huawei\./
+/^https?\:\/\/.*huaweicloud\./
 
-*://*.gitee.*/*
+/^https?\:\/\/.*gitee\./
 
-*://*.sohu.*/*
+/^https?\:\/\/.*sohu\./
 
-*://*.weibo.*/*
-*://*.sina.*/*
+/^https?\:\/\/.*weibo\./
+/^https?\:\/\/.*sina\./
 
-*://*.sogou.*/*
+/^https?\:\/\/.*sogou\./
 
-*://*.360.*/*
+/^https?\:\/\/.*360\./
 
-*://*.bilibili.*/*
+/^https?\:\/\/.*bilibili\./
 
-*://*.163.*/*
-
+/^https?\:\/\/.*163\./
 

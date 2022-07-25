@@ -1,17 +1,18 @@
-*://*.apple.*/*
-
-*://t.me/*
-
-*://*.yahoo.*/*
-
-*://*.google.*/*
-
-*://*.oracle.*/*
-
-*://*.vmware.*/*
-
+*://*.me/*
 *://*.tw/*
+*://*.hk/*
 
-*://*.gov.*/*
 
-*://*.edu.*/*
+/^https?\:\/\/.*google\./
+
+/^https?\:\/\/.*apple\./
+
+/^https?\:\/\/.*yahoo\./
+
+/^https?\:\/\/.*oracle\./
+
+/^https?\:\/\/.*vmware\./
+
+/^https?\:\/\/.*gov\./
+
+/^https?\:\/\/.*edu\./
