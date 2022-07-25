@@ -4,6 +4,7 @@
 
 
 /^https?\:\/\/.*google\./
+/^https?\:\/\/.*youtube\./
 
 /^https?\:\/\/.*apple\./
 
