@@ -8,6 +8,7 @@ title/新闻/
 title/测试/
 title/热点/
 title/排名/
+title/SEO/
 
 /^https?:\/\/m\./
 /^https?:\/\/wap\./
