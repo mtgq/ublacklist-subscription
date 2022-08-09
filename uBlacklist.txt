@@ -1,4 +1,11 @@
 *://*/so.php
+*://www.icodebang.com/*
+*://www.nhooo.com/*
+*://joanne-kelly.com/*
+*://www.optbbs.com/*
+*://pythontechworld.com/*
+*://www.liliang.info/*
+*://www.hulingweb.cn/*
 *://kikinote.net/*
 *://nadc.china-vo.org/*
 *://www.aliwork.com/*
