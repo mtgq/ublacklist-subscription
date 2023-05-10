@@ -15,7 +15,7 @@ main: https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/uBlack
 
 fast github: https://ghproxy.com/https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/uBlacklist.txt
 
-experimental: https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/test.txt
+experiments: https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/test.txt
 
 #### Collection of other people's subscription addresses
 
