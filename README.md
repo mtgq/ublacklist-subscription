@@ -29,6 +29,7 @@ https://github.com/gyli/Blocklist/blob/master/BLOCKLIST_uBlacklist
 
 https://gist.github.com/inkss/6a256813ad2df862d1f8b91f6db0c643
 
+https://github.com/eallion/uBlacklist-subscription-compilation
 
 #### Custom rule use
 
