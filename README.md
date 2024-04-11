@@ -1,3 +1,5 @@
+重启项目
+
 # Google Search Results To Block Certain Sites
 
 ###### Description: This is a subscription rule used by myself, usually in the use of Google search in Chinese when you encounter a spam site to black up, and then update this address to the file.
